@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lkmsd;
+=======
+nksd
+>>>>>>> first
